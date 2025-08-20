@@ -118,7 +118,7 @@ snakePOO/
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/snakePOO.git
+git clone https://github.com/kanekitakitos/snakePOO.git
 cd snakePOO
 ```
 
@@ -173,7 +173,7 @@ Play a classic Snake online here:
 
 ## License
 
-Specify your license here (e.g., MIT). If you don’t have one yet, consider adding a `LICENSE` file to the repository.
+This project is licensed under the MIT.
 
 ---
 
