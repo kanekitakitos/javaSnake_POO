@@ -179,6 +179,6 @@ This project is licensed under the MIT.
 
 ## Credits
 
-- **Authors (in code headers):** Jose Diogo Ferras, Miguel Silva, Brandon Mejia
+- **Authors (in code headers):** [José Diogo Ferras](https://github.com/zediogoferras), [Miguel Silva](https://github.com/MiguelDzn2), [Brandon Mejia](https://github.com/kanekitakitos)
 - **Images/Audio:** under `src/Graphics/` (development use)
 
